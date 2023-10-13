@@ -1,4 +1,4 @@
-# Git_Branch_Export
+# Gitlab branch exporter
 
 - This repository stores the code of a program i made to export all branches from a repository to external folders. Also, the code is capable of merging all those branches into master with each of them organised in different folders. 
 
